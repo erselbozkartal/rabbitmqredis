@@ -1,0 +1,45 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\ConsumerService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\ConsumerService.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\ConsumerService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Service.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RedisService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\StackExchange.Redis.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RedisService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\StackExchange.Redis.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\SqlService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\SqlService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\SqlService.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Service.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\ConsumerService.exe.config
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\ConsumerService.exe
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\ConsumerService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Service.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RedisService.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\StackExchange.Redis.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Service.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Service.dll.config
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\RedisService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\bin\Debug\StackExchange.Redis.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.csprojAssemblyReference.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.csproj.CoreCompileInputs.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.csproj.CopyComplete
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.exe
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\ConsumerService\obj\Debug\ConsumerService.pdb

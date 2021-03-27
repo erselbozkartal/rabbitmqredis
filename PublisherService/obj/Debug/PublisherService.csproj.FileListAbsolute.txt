@@ -1,0 +1,45 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\PublisherService.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\PublisherService.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\PublisherService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Service.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RedisService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\StackExchange.Redis.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RedisService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\StackExchange.Redis.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\SqlService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\SqlService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\SqlService.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Service.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\PublisherService.exe.config
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\PublisherService.exe
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\PublisherService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Service.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RedisService.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\StackExchange.Redis.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Service.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Service.dll.config
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\RedisService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\bin\Debug\StackExchange.Redis.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.csprojAssemblyReference.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.csproj.CoreCompileInputs.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.csproj.CopyComplete
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.exe
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\PublisherService\obj\Debug\PublisherService.pdb

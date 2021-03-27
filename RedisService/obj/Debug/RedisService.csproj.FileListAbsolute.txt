@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\RedisService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\RedisService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\StackExchange.Redis.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\StackExchange.Redis.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.csprojAssemblyReference.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\RedisService.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\RedisService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\StackExchange.Redis.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\bin\Debug\StackExchange.Redis.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.csproj.CoreCompileInputs.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.csproj.CopyComplete
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\RedisService\obj\Debug\RedisService.csprojAssemblyReference.cache

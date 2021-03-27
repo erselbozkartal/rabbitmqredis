@@ -1,0 +1,39 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Service.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RedisService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\StackExchange.Redis.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RedisService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\StackExchange.Redis.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\SqlService.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\SqlService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\SqlService.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Service.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\RabbitMqExample\RabbitMqExample\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Service.dll.config
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Service.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Service.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RedisService.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\StackExchange.Redis.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RedisService.pdb
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\bin\Debug\StackExchange.Redis.xml
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.dll
+C:\Users\Ersel\Desktop\RabbitMqExample\RabbitMqExample\Service\obj\Debug\Service.pdb
